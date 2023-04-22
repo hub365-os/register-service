@@ -1,5 +1,5 @@
 {
-  "name": "register-service",
+  "name": "@hub365-os/register-service",
   "version": "1.0.0",
   "description": "Register Service",
   "main": "lib/index.js",
