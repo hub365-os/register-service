@@ -23,11 +23,12 @@
   "homepage": "https://github.com/hub365-os/register-service#readme",
   "dependencies": {
     "@hub365-os/utility-nodejs": "^0.0.15",
-    "axios": "^1.3.6",
+    "axios": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "helmet": "^6.1.5",
+    "helmet": "^6.2.0",
+    "mongoose": "^7.2.2",
     "morgan": "^1.10.0"
   }
 }
